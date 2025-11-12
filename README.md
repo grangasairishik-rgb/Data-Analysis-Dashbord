@@ -29,6 +29,7 @@ Integrated Excel-based data modeling with Power BI to deliver a dynamic, data-dr
 ## Dash Board
 <img width="1472" height="734" alt="dashbord1" src="https://github.com/user-attachments/assets/8b8b8762-ddd6-4c04-bc02-9e11b4b430eb" />
 <img width="1466" height="727" alt="dashbord2" src="https://github.com/user-attachments/assets/93fd924c-fe46-4df5-84e8-eb33e08ecb72" />
+
 ## Final Conclusion
 This project provides a clear view of sales and operational performance using Excel and Power BI.It highlights key insights on profit, customer behavior, and delivery efficiency across regions and categories.The dashboard helps monitor business growth and supports data-driven decision-making.
 
